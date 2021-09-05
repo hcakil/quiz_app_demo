@@ -4,18 +4,18 @@ A new Flutter project.
 
 
 
-## DESCRIPTION
+## Description
 
 This project is a starting point for a Flutter application.
 
 
-## SCREENS
+## Screens
 
 
-## SUPPORT
+## Support
 
 
-## CONTRIBUTE
+## Contribute
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
