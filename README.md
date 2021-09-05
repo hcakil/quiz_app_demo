@@ -33,19 +33,23 @@ There are Test Mode for user to choose.
 
 ## Screens
 **Category Pages
-![Uploading category.JPG…](https://digitalpratix.com/wp-content/uploads/category.jpg)
-![Uploading category2.JPG…](https://digitalpratix.com/wp-content/uploads/category2.jpg)
+[Categories -1](https://digitalpratix.com/wp-content/uploads/category.jpg)
+[Categories -2](https://digitalpratix.com/wp-content/uploads/category2.jpg)
 
 --
 **Read Mode
-![Uploading read_mode.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode.jpg)
-![Uploading read_mode2.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode2.jpg)
-![Uploading read_mode3.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode3.jpg)
-![Uploading read_mode4.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode4.jpg)
+[Read-Mode-1](https://digitalpratix.com/wp-content/uploads/read_mode.jpg)
+[Read-Mode-2](https://digitalpratix.com/wp-content/uploads/read_mode2.jpg)
+[Read-Mode-3](https://digitalpratix.com/wp-content/uploads/read_mode3.jpg)
+[Read-Mode-4](https://digitalpratix.com/wp-content/uploads/read_mode4.jpg)
 
 --
 **TestMode
-
+[Test-Mode-1](https://digitalpratix.com/wp-content/uploads/test_mode.jpg)
+[Test-Mode-2](https://digitalpratix.com/wp-content/uploads/test_mode2.jpg)
+[Test-Mode-3](https://digitalpratix.com/wp-content/uploads/test_mode3.jpg)
+[Test-Mode-4](https://digitalpratix.com/wp-content/uploads/test_mode4.jpg)
+[Test-Mode-5](https://digitalpratix.com/wp-content/uploads/test_mode5.jpg)
 
 ## Support
 
