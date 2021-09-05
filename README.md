@@ -32,6 +32,19 @@ There are Test Mode for user to choose.
 
 
 ## Screens
+**Category Pages
+![Uploading category.JPG…](https://digitalpratix.com/wp-content/uploads/category.jpg)
+![Uploading category2.JPG…](https://digitalpratix.com/wp-content/uploads/category2.jpg)
+
+--
+**Read Mode
+![Uploading read_mode.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode.jpg)
+![Uploading read_mode2.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode2.jpg)
+![Uploading read_mode3.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode3.jpg)
+![Uploading read_mode4.JPG…](https://digitalpratix.com/wp-content/uploads/read_mode4.jpg)
+
+--
+**TestMode
 
 
 ## Support
