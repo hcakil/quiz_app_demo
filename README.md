@@ -36,6 +36,8 @@ There are Test Mode for user to choose.
 [Categories -1](https://digitalpratix.com/wp-content/uploads/category.jpg)
 [Categories -2](https://digitalpratix.com/wp-content/uploads/category2.jpg)
 
+
+
 --
 **Read Mode
 [Read-Mode-1](https://digitalpratix.com/wp-content/uploads/read_mode.jpg)
@@ -52,7 +54,9 @@ There are Test Mode for user to choose.
 [Test-Mode-5](https://digitalpratix.com/wp-content/uploads/test_mode5.jpg)
 
 ## Support
-
+You Tube :smiling_face_with_three_hearts: | Instagram :zany_face:
+------------ | -------------
+[Link Of Channel](https://www.youtube.com/channel/UCUGZVO7tCJIPTJQ2FZWZ1RQ) | [Link Of Account](https://www.instagram.com/digitalpratix/) 
 
 ## Contribute
 A few resources to get you started if this is your first Flutter project:
