@@ -33,27 +33,25 @@ There are Test Mode for user to choose.
 
 ## Screens
 **Category Pages
-[Categories -1](https://digitalpratix.com/wp-content/uploads/category.jpg)
-[Categories -2](https://digitalpratix.com/wp-content/uploads/category2.jpg)
+
+<img src="https://user-images.githubusercontent.com/48150826/132214380-b5fb74dd-585e-44b7-8e07-9c61973dbb15.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132214899-0641bfdb-26b0-4fd6-9cee-c0000f5649a8.JPG" width=30% height=30%>
+
+
 
 ------------------------------------------------------------------------------------------------------------
 
 
 **Read Mode
-[Read-Mode-1](https://digitalpratix.com/wp-content/uploads/read_mode.jpg)
-[Read-Mode-2](https://digitalpratix.com/wp-content/uploads/read_mode2.jpg)
-[Read-Mode-3](https://digitalpratix.com/wp-content/uploads/read_mode3.jpg)
-[Read-Mode-4](https://digitalpratix.com/wp-content/uploads/read_mode4.jpg)
+
+<img src="https://user-images.githubusercontent.com/48150826/132215485-ca2e0944-79f5-4250-9963-0fb431b3df12.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215484-264a15ad-fca0-4949-a4bf-9a813d36fe8d.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215478-e4ed8084-3849-4549-9b4f-ec6e3d59a9ab.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215488-6f4c0a06-8e73-4f08-86df-1843af1727c3.JPG" width=30% height=30%>
 
 
 ------------------------------------------------------------------------------------------------------------
 
 **TestMode
-[Test-Mode-1](https://digitalpratix.com/wp-content/uploads/test_mode.jpg)
-[Test-Mode-2](https://digitalpratix.com/wp-content/uploads/test_mode2.jpg)
-[Test-Mode-3](https://digitalpratix.com/wp-content/uploads/test_mode3.jpg)
-[Test-Mode-4](https://digitalpratix.com/wp-content/uploads/test_mode4.jpg)
-[Test-Mode-5](https://digitalpratix.com/wp-content/uploads/test_mode5.jpg)
+
+<img src="https://user-images.githubusercontent.com/48150826/132215698-95fe83e4-66a4-4487-8227-d4ec54c097cd.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215695-8aa13fa9-27d2-44d9-aad1-a5982f4aa7ff.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215693-d4bde829-22c2-4395-b8de-4c92d1eda86e.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215702-b0883197-f643-4e01-9f47-59e893bb6544.JPG" width=30% height=30%>          -              <img src="https://user-images.githubusercontent.com/48150826/132215701-11a3aeae-5e0e-4c43-b3e7-9950e2c60184.JPG" width=30% height=30%>
+
 
 ## Support
 You Tube :smiling_face_with_three_hearts: | Instagram :zany_face:
